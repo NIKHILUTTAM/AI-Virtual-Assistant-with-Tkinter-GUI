@@ -1,0 +1,31 @@
+# Speech Recognition and Audio
+SpeechRecognition>=3.8.1
+PyAudio>=0.2.11
+pyttsx3>=2.90
+
+# Natural Language Processing
+nltk>=3.6.3
+
+# GUI
+tkinter  # Usually comes with Python installation
+
+# HTTP Requests
+requests>=2.26.0
+
+# Additional Dependencies for Enhanced Functionality
+python-dateutil>=2.8.2
+pytz>=2021.3
+
+# Development Dependencies
+pytest>=6.2.5  # For testing
+black>=21.9b0  # For code formatting
+flake8>=3.9.2  # For linting
+
+# Optional - Weather API Client (if implementing weather features)
+python-weather>=0.3.7
+
+# Optional - System Tray Integration
+pystray>=0.17.3
+
+# Optional - Rich Text Formatting
+pillow>=8.3.2  # For image processing if needed
